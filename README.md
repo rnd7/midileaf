@@ -8,7 +8,6 @@ I coded this primarily for an installation of Katharina Kenklies in 2018.
 ## Wiring and Setup
 Using a poor mans breadboard.You can add more electrodes. I tried with 4 pairs, works fine.
 
-
 ![wiring](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/wiring.png)
 
 ![prototype](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/prototype.jpg)
@@ -16,6 +15,9 @@ Using a poor mans breadboard.You can add more electrodes. I tried with 4 pairs, 
 ![electrodes](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/electrodes.jpg)
 
 ![setup](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/setup.png)
+
+## Plot
+Using the Arduino IDE you can use the plotter to monitor the values.
 
 ![plot](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/plot.png)
 
