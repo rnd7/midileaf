@@ -6,14 +6,14 @@ I coded this primarily for an installation of Katharina Kenklies in 2018.
 ![drawing](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/drawing.png)
 
 ## Wiring and Setup
-Using a poor mans breadboard.
+Using a poor mans breadboard.You can add more electrodes. I tried with 4 pairs, works fine.
 
-You can add more electrodes 
+
 ![wiring](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/wiring.png)
 
-![prototype](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/prototype.png)
+![prototype](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/prototype.jpg)
 
-![electrodes](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/electrodes.png)
+![electrodes](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/electrodes.jpg)
 
 ![setup](https://raw.githubusercontent.com/rnd7/midileaf/master/doc/setup.png)
 
